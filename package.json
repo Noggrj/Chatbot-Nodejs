@@ -1,0 +1,28 @@
+{
+  "name": "blp_001-padronizacao-de-chatbots",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wsfelipe@bitbucket.org/devfluig/blp_001-padronizacao-de-chatbots.git"
+  },
+  "author": "Felipe Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/devfluig/blp_001-padronizacao-de-chatbots/issues"
+  },
+  "homepage": "https://bitbucket.org/devfluig/blp_001-padronizacao-de-chatbots#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2",
+    "yargs": "^17.1.1"
+  }
+}
